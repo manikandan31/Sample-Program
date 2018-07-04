@@ -1,0 +1,38 @@
+2018-04-11 00:22:26,290 [main] INFO Class10 - Inside method 1
+2018-04-11 00:22:39,831 [main] INFO Class10 - Inside Loginpage 1
+2018-04-11 00:28:37,220 [main] INFO Class10 - Inside method 1
+2018-04-11 00:29:14,571 [main] INFO Class10 - Inside Loginpage 1
+2018-04-11 00:29:16,247 [main] INFO Class10 - Inside method 2
+2018-04-14 11:24:29,744 [main] INFO Class10 - Inside method 1
+2018-04-14 11:24:55,254 [main] INFO Class10 - Inside Loginpage 1
+2018-04-14 11:24:57,032 [main] INFO Class10 - Inside method 2
+2018-04-14 11:38:16,395 [main] INFO Class10 - Inside method 1
+2018-04-14 11:38:34,931 [main] INFO Class10 - Inside Loginpage 1
+2018-04-14 11:38:36,145 [main] INFO Class10 - Inside method 2
+2018-04-14 11:48:32,645 [main] INFO Class10 - Inside method 1
+2018-04-14 11:48:44,680 [main] INFO Class10 - Inside Loginpage 1
+2018-04-14 11:48:46,041 [main] INFO Class10 - Inside method 2
+2018-04-14 11:50:49,823 [main] INFO Class10 - Inside method 1
+2018-04-14 11:50:59,872 [main] INFO Class10 - Inside Loginpage 1
+2018-04-14 11:51:01,076 [main] INFO Class10 - Inside method 2
+2018-04-14 11:52:01,166 [main] INFO Class10 - Inside method 1
+2018-04-14 11:52:11,400 [main] INFO Class10 - Inside Loginpage 1
+2018-04-14 11:52:12,654 [main] INFO Class10 - Inside method 2
+2018-04-14 11:54:00,640 [main] INFO Class10 - Inside method 1
+2018-04-14 11:54:22,889 [main] INFO Class10 - Inside Loginpage 1
+2018-04-14 11:54:24,052 [main] INFO Class10 - Inside method 2
+2018-04-14 12:02:28,038 [main] INFO Class10 - Inside method 1
+2018-04-14 12:02:45,020 [main] INFO Class10 - Inside Loginpage 1
+2018-04-14 12:02:47,189 [main] INFO Class10 - Inside method 2
+2018-04-14 12:03:48,103 [main] INFO Class10 - Inside method 1
+2018-04-14 12:03:59,306 [main] INFO Class10 - Inside Loginpage 1
+2018-04-14 12:04:00,631 [main] INFO Class10 - Inside method 2
+2018-04-14 12:09:02,032 [main] INFO Class10 - Inside method 1
+2018-04-14 12:09:25,571 [main] INFO Class10 - Inside Loginpage 1
+2018-04-14 12:09:26,891 [main] INFO Class10 - Inside method 2
+2018-04-14 12:38:04,767 [main] INFO Class10 - Inside method 1 logger
+2018-04-14 12:38:30,935 [main] INFO Class10 - Inside Loginpage 1 logger
+2018-04-14 12:38:32,725 [main] INFO Class10 - Inside method 2 logger 
+2018-04-14 12:46:58,694 [main] INFO com.package1.Class10 - Inside method 1 logger
+2018-04-14 12:47:15,794 [main] INFO com.package1.Class10 - Inside Loginpage 1 logger
+2018-04-14 12:47:17,166 [main] INFO com.package1.Class10 - Inside method 2 logger 
